@@ -1,5 +1,6 @@
 ## Olá me chamo Matheus F.
-
+<p>Olá, sou estudante universitário e estou iniciando minha carreira agora, desejo entrar na área de IA.</p>
+<p>Meu foco agora é estudar Python, porém não tenho apego a linguagem pois ela não define o programador é o programador que define a linguagem. 😄</p>
 <div> 
   <img height='170em' src= 'https://github-readme-stats.vercel.app/api?username=IMakeProgram&show_icons=true&theme=radical'/> <img height='170em', margin='5em' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=IMakeProgram'/>
 </div>
